@@ -1,4 +1,5 @@
 import streamlit as st 
+import pymongo
 from pymongo import MongoClient 
 import pandas as pd 
 #Coneccion al cluster y bases de datos
